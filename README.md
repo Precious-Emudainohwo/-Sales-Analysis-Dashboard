@@ -75,7 +75,4 @@ The dashboard includes the following charts:
 
 ---
 
-## 👤 Author
-**Precious Emy**  
-Aspiring Data Analyst  
-Skills: Excel, Data Analysis, Data Visualization
+
